@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *prints the string to standard output
+ *main - prints the string in standard output
+ *Return: return is 0
  */
 int main(void)
 {
