@@ -8,7 +8,7 @@ int print_last_digit(int number)
 {
 	if (number < 0)
 	{
-		putchar('-');
+		_putchar('-');
 		number *= -1;
 	}
 }
